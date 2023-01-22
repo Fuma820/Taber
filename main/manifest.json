@@ -1,7 +1,7 @@
 {
     "name": "TabCounter",
     "version": "1.0",
-    "description": "",
+    "description": "開くタブの数を制限，現在のタブ数を表示，URLごとにタブをグループ化する．",
     "action": {
         "default_popup": "popup.html"
     },
